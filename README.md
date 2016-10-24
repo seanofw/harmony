@@ -1,5 +1,7 @@
 # Harmony .NET
-**A dynamic loader and linker library for integrating .NET and C** \
+
+**A dynamic loader and linker library for integrating .NET and C**
+
 **Copyright &copy; 2016 Sean Werkema**
 
 -----------------------------------------------------------------------------
@@ -17,8 +19,6 @@ tricky:  So the idea is to be able to store the unmanaged DLL _inside_ the manag
 that from the perspective of .NET callers, there is only managed code that appears to be
 "magically fast," just like the built-in external .NET methods are.
 
------------------------------------------------------------------------------
-
 ## Current Status
 
 Harmony is currently in **Beta** status.  It works, but you should not depend on it
@@ -34,8 +34,6 @@ for production use (yet).
   - Harmony cannot autodetect calling conventions:  You need to explicitly specify the
     calling convention, just like with P/Invoke.
   - Marshalling isn't as clean as it should be.
-
------------------------------------------------------------------------------
 
 ## Using Harmony
 
@@ -183,8 +181,6 @@ the standard Harmony build for people that want all of Harmony as a single C# so
 Either way, whether you choose to use the Harmony NuGet package (or DLL), or you choose
 to use `HarmonyPacked.cs`, the exposed Harmony classes and methods are exactly the same.
   
------------------------------------------------------------------------------
-
 ## Documentation
 
 Harmony does not expose a lot of methods to call; its interface is intentionally simple
@@ -202,8 +198,6 @@ and narrow.  The core methods on `HarmonyLibrary` are as follows:
   - `GetProcAddressOrdinal()` - Just like `GetProcAddress()`, but by ordinal instead of by name.
   - `GetFunction<T>()` - This is the main interface for retrieving functions from the loaded library.  It can optionally take a function name that's different from the delegate type name.
 
------------------------------------------------------------------------------
-
 ## Credits
 
 Harmony was written by Sean Werkema in C# because it sounded like a really good idea.
@@ -211,8 +205,6 @@ Harmony was written by Sean Werkema in C# because it sounded like a really good 
 Some parts of Harmony are loosely based on Joachim Bauch's excellent
 [MemoryModule](https://github.com/fancycode/MemoryModule) library, which
 provides a similar kind of concept to C programs.
-
------------------------------------------------------------------------------
 
 ## License
 
