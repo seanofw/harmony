@@ -9,9 +9,17 @@
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Collections
@@ -159,9 +167,17 @@ namespace Harmony.Collections
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -189,9 +205,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -245,9 +269,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -281,9 +313,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -319,9 +359,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -340,9 +388,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony
@@ -655,9 +711,17 @@ namespace Harmony
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -677,9 +741,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -713,9 +785,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -757,9 +837,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony
@@ -781,9 +869,34 @@ namespace Harmony
 				Size = size;
 			}
 
-			public IMAGE_NT_HEADERS32* Headers
+			public IMAGE_NT_HEADERS32* Headers32
 			{
 				get { return (IMAGE_NT_HEADERS32*)(BasePtr + ((IMAGE_DOS_HEADER*)BasePtr)->e_lfanew); }
+			}
+
+			public IMAGE_NT_HEADERS64* Headers64
+			{
+				get { return (IMAGE_NT_HEADERS64*)(BasePtr + ((IMAGE_DOS_HEADER*)BasePtr)->e_lfanew); }
+			}
+
+			public IMAGE_FILE_HEADER* FileHeader
+			{
+				get
+				{
+					return Environment.Is64BitProcess
+						? (IMAGE_FILE_HEADER*)((byte*)&Headers64->FileHeader)
+						: (IMAGE_FILE_HEADER*)((byte*)&Headers32->FileHeader);
+				}
+			}
+
+			public IMAGE_OPTIONAL_HEADER32* OptionalHeader32
+			{
+				get { return &Headers32->OptionalHeader; }
+			}
+
+			public IMAGE_OPTIONAL_HEADER64* OptionalHeader64
+			{
+				get { return &Headers64->OptionalHeader; }
 			}
 
 			public IMAGE_SECTION_HEADER* FirstSection
@@ -791,7 +904,9 @@ namespace Harmony
 				get
 				{
 					const int OptionalHeaderOffset = 24; // In IMAGE_NT_HEADERS, this is the OptionalHeader's FieldOffset.
-					return (IMAGE_SECTION_HEADER*)((byte*)Headers + OptionalHeaderOffset + Headers->FileHeader.SizeOfOptionalHeader);
+					return Environment.Is64BitProcess
+						? (IMAGE_SECTION_HEADER*)((byte*)Headers64 + OptionalHeaderOffset + FileHeader->SizeOfOptionalHeader)
+						: (IMAGE_SECTION_HEADER*)((byte*)Headers32 + OptionalHeaderOffset + FileHeader->SizeOfOptionalHeader);
 				}
 			}
 
@@ -810,9 +925,17 @@ namespace Harmony
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony
@@ -881,7 +1004,7 @@ namespace Harmony
 					
 						ApplyProperMemoryProtection(cookedImage);
 
-						bool isDll = (cookedImage.Headers->FileHeader.Characteristics & ImageFileHeaderCharacteristics.IsDLL) != 0;
+						bool isDll = (cookedImage.FileHeader->Characteristics & ImageFileHeaderCharacteristics.IsDLL) != 0;
 
 						if ((_loadFlags & HarmonyLoadFlags.NoAttach) == 0)
 						{
@@ -901,7 +1024,9 @@ namespace Harmony
 							kind: isDll ? HarmonyLibraryKind.Dll : HarmonyLibraryKind.Exe,
 							loadFlags: _loadFlags,
 							baseAddress: (UIntPtr)cookedImage.BasePtr,
-							imageSize: cookedImage.Headers->OptionalHeader.SizeOfImage,
+							imageSize: Environment.Is64BitProcess
+								? cookedImage.Headers64->OptionalHeader.SizeOfImage
+								: cookedImage.Headers32->OptionalHeader.SizeOfImage,
 							alignedImageSize: cookedImage.Size,
 							pageSize: _pageSize,
 							sections: sections,
@@ -930,7 +1055,8 @@ namespace Harmony
 			{
 				uint lastSectionEnd = FindEndOfLastSection(image);
 
-				uint cookedSize = RoundAddressUp(image.Headers->OptionalHeader.SizeOfImage, _pageSize);
+				uint cookedSize = RoundAddressUp(Environment.Is64BitProcess
+					? image.OptionalHeader64->SizeOfImage : image.OptionalHeader32->SizeOfImage, _pageSize);
 				if (cookedSize != RoundAddressUp(lastSectionEnd, _pageSize))
 					throw new LoadFailedException("This DLL is damaged or invalid; its end does not match the system page size.");
 
@@ -943,10 +1069,12 @@ namespace Harmony
 			private static uint FindEndOfLastSection(Image image)
 			{
 				IMAGE_SECTION_HEADER* section = image.FirstSection;
-				uint optionalSectionSize = image.Headers->OptionalHeader.SectionAlignment;
+				uint optionalSectionSize = Environment.Is64BitProcess
+					? image.OptionalHeader64->SectionAlignment : image.OptionalHeader32->SectionAlignment;
 				uint lastSectionEnd = 0;
+				int numberOfSections = image.FileHeader->NumberOfSections;
 
-				for (int i = 0; i < image.Headers->FileHeader.NumberOfSections; i++, section++)
+				for (int i = 0; i < numberOfSections; i++, section++)
 				{
 					uint endOfSection = section->SizeOfRawData == 0
 						? section->VirtualAddress + optionalSectionSize
@@ -970,25 +1098,28 @@ namespace Harmony
 				Dictionary<string, HarmonyExport> exportsByName = new Dictionary<string, HarmonyExport>();
 				Dictionary<ushort, HarmonyExport> exportsByOrdinal = new Dictionary<ushort, HarmonyExport>();
 
-				IMAGE_DATA_DIRECTORY directory = image.Headers->OptionalHeader.ExportTable;
+				IMAGE_DATA_DIRECTORY directory = Environment.Is64BitProcess
+					? image.OptionalHeader64->ExportTable : image.OptionalHeader32->ExportTable;
 				if (directory.VirtualAddress == 0)
 					return new ExportDictionaries(exportsByName, exportsByOrdinal);
 
 				IMAGE_EXPORT_DIRECTORY* exportDirectory = (IMAGE_EXPORT_DIRECTORY*)(image.BasePtr + directory.VirtualAddress);
 				UIntPtr nameRef = (UIntPtr)(image.BasePtr + exportDirectory->AddressOfNames);
 				UIntPtr ordinalRef = (UIntPtr)(image.BasePtr + exportDirectory->AddressOfNameOrdinals);
+				ushort ordinalBase = (ushort)exportDirectory->Base;
 
-				for (int i = 0; i < exportDirectory->NumberOfNames; i++, nameRef += sizeof(UIntPtr), ordinalRef += sizeof(UInt16))
+				for (int i = 0; i < exportDirectory->NumberOfNames; i++, nameRef += sizeof(UInt32), ordinalRef += sizeof(UInt16))
 				{
-					byte* namePtr = image.BasePtr + (long)*(UIntPtr*)nameRef;
+					byte* namePtr = image.BasePtr + (int)*(UInt32*)nameRef;
 					string name = StringOperations.NulTerminatedBytesToString(namePtr, image.BasePtr, image.Size);
 					ushort ordinal = *(UInt16*)ordinalRef;
 
-					IntPtr exportAddress = (IntPtr)(image.BasePtr + (long)*(IntPtr*)(image.BasePtr + exportDirectory->AddressOfFunctions + ordinal * 4));
+					IntPtr exportAddress = (IntPtr)(image.BasePtr + (int)*(UInt32*)(image.BasePtr + exportDirectory->AddressOfFunctions + ordinal * sizeof(UInt32)));
 
-					HarmonyExport export = new HarmonyExport(name, ordinal, exportAddress);
+					ushort displayOrdinal = (ushort)(ordinal + ordinalBase);
+					HarmonyExport export = new HarmonyExport(name, displayOrdinal, exportAddress);
 					exportsByName[name] = export;
-					exportsByOrdinal[ordinal] = export;
+					exportsByOrdinal[displayOrdinal] = export;
 				}
 
 				return new ExportDictionaries(exportsByName, exportsByOrdinal);
@@ -1000,7 +1131,8 @@ namespace Harmony
 
 			public void ExecuteDllMain(Image image, DllCallType callType)
 			{
-				uint addressOfEntryPoint = image.Headers->OptionalHeader.AddressOfEntryPoint;
+				uint addressOfEntryPoint = Environment.Is64BitProcess
+					? image.OptionalHeader64->AddressOfEntryPoint : image.OptionalHeader32->AddressOfEntryPoint;
 				if (addressOfEntryPoint >= image.Size - sizeof(IntPtr))
 					throw new LoadFailedException("Cannot invoke this library's DllMain() function; its address is invalid.");
 
@@ -1015,7 +1147,8 @@ namespace Harmony
 
 			public void ExecuteExeMain(Image image)
 			{
-				uint addressOfEntryPoint = image.Headers->OptionalHeader.AddressOfEntryPoint;
+				uint addressOfEntryPoint = Environment.Is64BitProcess
+					? image.OptionalHeader64->AddressOfEntryPoint : image.OptionalHeader32->AddressOfEntryPoint;
 				if (addressOfEntryPoint >= image.Size - sizeof(IntPtr))
 					throw new LoadFailedException("Cannot invoke executable's Main() function; its address is invalid.");
 
@@ -1027,7 +1160,8 @@ namespace Harmony
 
 			public void ExecuteTlsFunctions(Image image, DllCallType callType)
 			{
-				IMAGE_DATA_DIRECTORY directory = image.Headers->OptionalHeader.TLSTable;
+				IMAGE_DATA_DIRECTORY directory = Environment.Is64BitProcess
+					? image.OptionalHeader64->TLSTable : image.OptionalHeader32->TLSTable;
 				if (directory.VirtualAddress == 0)
 					return;
 
@@ -1057,7 +1191,7 @@ namespace Harmony
 
 			#region Memory protection logic
 
-			private static uint GetEffectiveSectionSize(IMAGE_NT_HEADERS32* ntHeaders32, IMAGE_SECTION_HEADER* section)
+			private static uint GetEffectiveSectionSize32(IMAGE_NT_HEADERS32* ntHeaders32, IMAGE_SECTION_HEADER* section)
 			{
 				if (section->SizeOfRawData != 0)
 					return section->SizeOfRawData;
@@ -1067,6 +1201,20 @@ namespace Harmony
 
 				if ((section->Characteristics & DataSectionFlags.ContentUninitializedData) != 0)
 					return ntHeaders32->OptionalHeader.SizeOfUninitializedData;
+
+				return 0;
+			}
+
+			private static uint GetEffectiveSectionSize64(IMAGE_NT_HEADERS64* ntHeaders64, IMAGE_SECTION_HEADER* section)
+			{
+				if (section->SizeOfRawData != 0)
+					return section->SizeOfRawData;
+
+				if ((section->Characteristics & DataSectionFlags.ContentInitializedData) != 0)
+					return ntHeaders64->OptionalHeader.SizeOfInitializedData;
+
+				if ((section->Characteristics & DataSectionFlags.ContentUninitializedData) != 0)
+					return ntHeaders64->OptionalHeader.SizeOfUninitializedData;
 
 				return 0;
 			}
@@ -1098,12 +1246,15 @@ namespace Harmony
 			private void ApplyProperMemoryProtection(Image image)
 			{
 				IMAGE_SECTION_HEADER* section = image.FirstSection;
+				int numberOfSections = image.FileHeader->NumberOfSections;
 
-				for (int i = 0; i < image.Headers->FileHeader.NumberOfSections; i++, section++)
+				for (int i = 0; i < numberOfSections; i++, section++)
 				{
 					UIntPtr sectionAddress = (UIntPtr)image.BasePtr + (int)section->VirtualAddress;
 					UIntPtr alignedAddress = RoundAddressDown(sectionAddress, (int)_pageSize);
-					uint sectionSize = GetEffectiveSectionSize(image.Headers, section);
+					uint sectionSize = Environment.Is64BitProcess
+						? GetEffectiveSectionSize64(image.Headers64, section)
+						: GetEffectiveSectionSize32(image.Headers32, section);
 
 					if (sectionSize == 0) continue;
 
@@ -1170,7 +1321,7 @@ namespace Harmony
 				if (dosHeader->e_lfanew + sizeof(IMAGE_NT_HEADERS32) > image.Size)
 					throw new LoadFailedException("Bad or unknown DLL format (missing NT header data).");
 
-				IMAGE_NT_HEADERS32* headers = image.Headers;
+				IMAGE_NT_HEADERS32* headers = image.Headers32;
 				if (headers->Signature[0] != 'P' || headers->Signature[1] != 'E'
 					|| headers->Signature[2] != '\0' || headers->Signature[3] != '\0')
 					throw new LoadFailedException("Bad or unknown DLL format (missing NT header 'PE' signature).");
@@ -1205,13 +1356,19 @@ namespace Harmony
 			private IEnumerable<HarmonyLibrarySection> CopyImageToVirtualAddress(Image srcImage, Image destImage)
 			{
 				// Copy the headers first.
-				Kernel32.MoveMemory((IntPtr)destImage.BasePtr, (IntPtr)srcImage.BasePtr, (IntPtr)srcImage.Headers->OptionalHeader.SizeOfHeaders);
+				Kernel32.MoveMemory((IntPtr)destImage.BasePtr, (IntPtr)srcImage.BasePtr,
+					Environment.Is64BitProcess
+						? (IntPtr)srcImage.OptionalHeader64->SizeOfHeaders
+						: (IntPtr)srcImage.OptionalHeader32->SizeOfHeaders);
 
 				// Copy all the sections, verbatim.
 				IEnumerable<HarmonyLibrarySection> sections = CopySections(srcImage, destImage);
 
 				// Apply relocations to make the data correct in its new home.
-				PerformBaseRelocation(destImage, (long)destImage.BasePtr - destImage.Headers->OptionalHeader.ImageBase);
+				PerformBaseRelocation(destImage,
+					Environment.Is64BitProcess
+						? (long)destImage.BasePtr - (long)destImage.OptionalHeader64->ImageBase
+						: (long)destImage.BasePtr - (int)destImage.OptionalHeader32->ImageBase);
 
 				return sections;
 			}
@@ -1221,14 +1378,16 @@ namespace Harmony
 				List<HarmonyLibrarySection> resultSections = new List<HarmonyLibrarySection>();
 
 				IMAGE_SECTION_HEADER* section = destImage.FirstSection;
-				for (int i = 0; i < destImage.Headers->FileHeader.NumberOfSections; i++, section++)
+				for (int i = 0; i < destImage.FileHeader->NumberOfSections; i++, section++)
 				{
 					byte* dest = destImage.BasePtr + section->VirtualAddress;
 					uint sectionSize;
 
 					if (section->SizeOfRawData == 0)
 					{
-						sectionSize = destImage.Headers->OptionalHeader.SectionAlignment;
+						sectionSize = Environment.Is64BitProcess
+							? destImage.OptionalHeader64->SectionAlignment
+							: destImage.OptionalHeader32->SectionAlignment;
 						if (sectionSize > 0)
 						{
 							if (dest + sectionSize > destImage.BasePtr + destImage.Size)
@@ -1258,7 +1417,9 @@ namespace Harmony
 
 			private void PerformBaseRelocation(Image image, long delta)
 			{
-				IMAGE_DATA_DIRECTORY directory = image.Headers->OptionalHeader.BaseRelocationTable;
+				IMAGE_DATA_DIRECTORY directory = Environment.Is64BitProcess
+					? image.OptionalHeader64->BaseRelocationTable
+					: image.OptionalHeader32->BaseRelocationTable;
 				if (directory.Size == 0)
 					return;
 
@@ -1314,7 +1475,9 @@ namespace Harmony
 
 			private IEnumerable<HarmonyImportLibrary> ResolveImports(Image image)
 			{
-				IMAGE_DATA_DIRECTORY directory = image.Headers->OptionalHeader.ImportTable;
+				IMAGE_DATA_DIRECTORY directory = Environment.Is64BitProcess
+					? image.OptionalHeader64->ImportTable
+					: image.OptionalHeader32->ImportTable;
 				if (directory.Size == 0 || (_loadFlags & HarmonyLoadFlags.NoImports) != 0)
 					return Enumerable.Empty<HarmonyImportLibrary>();
 
@@ -1403,7 +1566,7 @@ namespace Harmony
 					funcRef = (UIntPtr)(basePtr + importDescriptor->FirstThunk);
 				}
 
-				bool is64BitMode = false;
+				bool is64BitMode = Environment.Is64BitProcess;
 				uint thunk;
 				for (; (thunk = *(uint*)thunkRef) != 0; thunkRef += sizeof(UIntPtr), funcRef += sizeof(UIntPtr))
 				{
@@ -1450,9 +1613,17 @@ namespace Harmony
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -1480,9 +1651,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Libraries
@@ -1527,9 +1706,17 @@ namespace Harmony.Libraries
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Raw
@@ -1598,9 +1785,17 @@ namespace Harmony.Raw
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony
@@ -1632,9 +1827,17 @@ namespace Harmony
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32
@@ -1658,9 +1861,17 @@ namespace Harmony.Win32
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32
@@ -1681,9 +1892,17 @@ namespace Harmony.Win32
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -1710,9 +1929,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -1900,9 +2127,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -1923,9 +2158,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -1958,9 +2201,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -1979,9 +2230,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2017,9 +2276,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2040,9 +2307,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2061,9 +2336,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2094,9 +2377,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2117,9 +2408,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2147,9 +2446,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2178,9 +2485,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Enums
@@ -2208,9 +2523,17 @@ namespace Harmony.Win32.Enums
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32
@@ -2279,9 +2602,17 @@ namespace Harmony.Win32
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs
@@ -2309,9 +2640,17 @@ namespace Harmony.Win32.Structs
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2334,9 +2673,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2359,9 +2706,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2401,9 +2756,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2435,9 +2798,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32
@@ -2470,9 +2841,17 @@ namespace Harmony.Win32
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2498,9 +2877,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2538,9 +2925,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2568,9 +2963,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -2598,9 +3001,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32
@@ -2763,9 +3174,17 @@ namespace Harmony.Win32
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32
@@ -2924,9 +3343,17 @@ namespace Harmony.Win32
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32
@@ -3007,9 +3434,17 @@ namespace Harmony.Win32
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -3036,9 +3471,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32.Structs.PortableExecutable
@@ -3065,9 +3508,17 @@ namespace Harmony.Win32.Structs.PortableExecutable
 // A dynamic loader and linker library for integrating .NET and C
 // Copyright (C) 2016 Sean Werkema
 //
-// This software is licensed under the terms of the open-source
-// Apache License 2.0, a copy of which can be found in the file
-// "LICENSE.txt" included with this software.
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     http://www.apache.org/licenses/LICENSE-2.0
+// 
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
 //----------------------------------------------------------------------------
 
 namespace Harmony.Win32

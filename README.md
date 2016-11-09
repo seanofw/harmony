@@ -19,16 +19,17 @@ tricky:  So the idea is to be able to store the unmanaged DLL _inside_ the manag
 that from the perspective of .NET callers, there is only managed code that appears to be
 "magically fast," just like the built-in external .NET methods are.
 
+Harmony supports both 32-bit and 64-bit .NET environments on Windows.
+
 ## Current Status
 
-Harmony is currently in **Beta** status.  It works, but you should not depend on it
-for production use (yet).
+Harmony is currently in **Beta** status.  It works, but you should probably
+not depend on it for production use (yet).
 
 ### Known Limitations
 
-  - Harmony currently only supports **32-bit** code.  This is an annoying limitation that
-    I will rectify shortly.
-  - Harmony does not provide access to resources in DLLs.
+  - Harmony does not provide access to resources inside DLLs.
+  - Harmony (likely) does not run under Mono.
   - Harmony does not support Windows side-by-side (SxS) linking.
   - Harmony does not support loading managed DLLs --- only unmanaged DLLs.
   - Harmony cannot autodetect calling conventions:  You need to explicitly specify the
@@ -219,3 +220,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+

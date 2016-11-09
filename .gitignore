@@ -8,3 +8,4 @@ bin
 *.opensdf
 *.DotSettings
 *.user
+*.VC.db

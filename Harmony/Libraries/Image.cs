@@ -35,9 +35,34 @@ namespace Harmony
 				Size = size;
 			}
 
-			public IMAGE_NT_HEADERS32* Headers
+			public IMAGE_NT_HEADERS32* Headers32
 			{
 				get { return (IMAGE_NT_HEADERS32*)(BasePtr + ((IMAGE_DOS_HEADER*)BasePtr)->e_lfanew); }
+			}
+
+			public IMAGE_NT_HEADERS64* Headers64
+			{
+				get { return (IMAGE_NT_HEADERS64*)(BasePtr + ((IMAGE_DOS_HEADER*)BasePtr)->e_lfanew); }
+			}
+
+			public IMAGE_FILE_HEADER* FileHeader
+			{
+				get
+				{
+					return Environment.Is64BitProcess
+						? (IMAGE_FILE_HEADER*)((byte*)&Headers64->FileHeader)
+						: (IMAGE_FILE_HEADER*)((byte*)&Headers32->FileHeader);
+				}
+			}
+
+			public IMAGE_OPTIONAL_HEADER32* OptionalHeader32
+			{
+				get { return &Headers32->OptionalHeader; }
+			}
+
+			public IMAGE_OPTIONAL_HEADER64* OptionalHeader64
+			{
+				get { return &Headers64->OptionalHeader; }
 			}
 
 			public IMAGE_SECTION_HEADER* FirstSection
@@ -45,7 +70,9 @@ namespace Harmony
 				get
 				{
 					const int OptionalHeaderOffset = 24; // In IMAGE_NT_HEADERS, this is the OptionalHeader's FieldOffset.
-					return (IMAGE_SECTION_HEADER*)((byte*)Headers + OptionalHeaderOffset + Headers->FileHeader.SizeOfOptionalHeader);
+					return Environment.Is64BitProcess
+						? (IMAGE_SECTION_HEADER*)((byte*)Headers64 + OptionalHeaderOffset + FileHeader->SizeOfOptionalHeader)
+						: (IMAGE_SECTION_HEADER*)((byte*)Headers32 + OptionalHeaderOffset + FileHeader->SizeOfOptionalHeader);
 				}
 			}
 
