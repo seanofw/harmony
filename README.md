@@ -32,6 +32,8 @@ not depend on it for production use (yet).
   - Harmony (likely) does not run under Mono.
   - Harmony does not support Windows side-by-side (SxS) linking.
   - Harmony does not support loading managed DLLs --- only unmanaged DLLs.
+  - Harmony does not support mixed environments:  64-bit code must load 64-bit DLLs,
+    and 32-bit code must load 32-bit DLLs.
   - Harmony cannot autodetect calling conventions:  You need to explicitly specify the
     calling convention, just like with P/Invoke.
   - Marshalling isn't as clean as it should be.
